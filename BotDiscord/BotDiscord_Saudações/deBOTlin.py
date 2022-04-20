@@ -23,4 +23,4 @@ intents.members = True
 
 
 client = MyClient(intents=intents)
-client.run('OTY1OTY4NTYyNzM0OTAzMzY2.Yl66VA.ShfXgmDGULaEP1-0TqamTUUasi0')
+client.run('Aqui você coloca o token do seu bot') #Encontrado no discord developers, na área do seu Bot. Cada Bot tem o seu.
